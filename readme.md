@@ -1,4 +1,5 @@
 # Speech Emotion Classification with LaBo
+### Shubha Sanket Samantaray & Kshitij Ambilduke 
 
 Implementation of [Language in a Bottle (LaBo)](https://arxiv.org/abs/2211.11158) for speech emotion recognition, using [CLAP](https://github.com/microsoft/CLAP) instead of CLIP. Evaluated on the [IEMOCAP](https://huggingface.co/datasets/mteb/iemocap) dataset.
 
